@@ -1,6 +1,6 @@
 # EnforceSameOrigin
 
-Automatically sets the `X-FRAME-OPTIONS` header on all requests to be `SAMEORIGIN`.  Various security scans will fail you for not having this header set. Now you can just drop this into your apps and be compliant.
+Automatically sets the `X-Frame-Options` header on all requests to be `SAMEORIGIN`.  Various security scans will fail you for not having this header set. Now you can just drop this into your apps and be compliant.
 
 ## Installation
 

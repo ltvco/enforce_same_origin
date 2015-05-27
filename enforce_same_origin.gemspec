@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = EnforceSameOrigin::VERSION
   spec.authors       = ["Patrick Tulskie"]
   spec.email         = ["patricktulskie@gmail.com"]
-  spec.summary       = %q{Globally set X-FRAME-OPTIONS to SAMEORIGIN.}
-  spec.description   = %q{Rack middleware that globally sets your Rack compatible app to always have X-FRAME-OPTIONS set to SAMEORIGIN.}
+  spec.summary       = %q{Globally set X-Frame-Options to SAMEORIGIN.}
+  spec.description   = %q{Rack middleware that globally sets your Rack compatible app to always have X-Frame-Options set to SAMEORIGIN.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
