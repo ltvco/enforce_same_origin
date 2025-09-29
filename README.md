@@ -1,3 +1,7 @@
+Development has been migrated to [PatrickTulskie/enforce_same_origin](https://github.com/PatrickTulskie/enforce_same_origin).
+This fork is **archived** and will not receive updates.
+For the latest changes, issues, and contributions, please use the new repository.
+
 # EnforceSameOrigin
 
 Automatically sets the `X-Frame-Options` header on all requests to be `SAMEORIGIN`.  Various security scans will fail you for not having this header set. Now you can just drop this into your apps and be compliant.
